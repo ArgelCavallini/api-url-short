@@ -1,0 +1,1 @@
+mongodb+srv://argel:<password>@projeto-link.msqx9.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
